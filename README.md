@@ -2,6 +2,9 @@
 
 # Leaning about operating systems 
 -unix pipes
+
 -message queue 
+
 -process managment
+
 -Concurrency problems
