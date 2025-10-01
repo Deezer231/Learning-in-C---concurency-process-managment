@@ -1,3 +1,7 @@
-## Linux Ubuntu 
+## Linux + Ubuntu + C
 
-# leaning about operating systems like unix pipes and message queue , process managment and Concurrency problems
+# Leaning about operating systems 
+-unix pipes
+-message queue 
+-process managment
+-Concurrency problems
