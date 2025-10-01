@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+int fd, n;
+int file;
+char buffer[10];
+
+printf("What file do you want to open? \n");
+scanf("%s %d", file);
+fd = open("file");
+n = read(fd, buffer, 6);
+close(fd);
+printf("%d characters were read from file p3a.c\n", n);
+printf("The characters were\n");
+}
